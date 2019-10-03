@@ -1,4 +1,4 @@
 # thatsgood
 intelligent house music
 
-nikonthegreat.github.io/thatsgood
+https://www.nikonthegreat.github.io/thatsgood
